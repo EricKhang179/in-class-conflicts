@@ -1,2 +1,5 @@
-# in-class-conflicts
-This repo is for causing in class conflicts
+# Class-Repo-Example-Conflict
+
+New Repo
+
+This is Khang adding new content
