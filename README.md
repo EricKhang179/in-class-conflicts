@@ -1,4 +1,8 @@
-# in-class-conflicts
-New repo
 
-This is Anna adding new content.
+# Class-Repo-Example-Conflict
+
+New Repo
+
+This is Anna and Khang adding new content
+
+
