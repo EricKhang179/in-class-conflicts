@@ -1,5 +1,8 @@
+
 # Class-Repo-Example-Conflict
 
 New Repo
 
-This is Khang adding new content
+This is Anna and Khang adding new content
+
+
